@@ -3,7 +3,7 @@
 Slow-burn psychological horror mod for **Minecraft 1.21.1 / NeoForge**. Something is listening to your world.
 
 - Player-facing description: [docs/PAGE_EN.md](docs/PAGE_EN.md) · [docs/PAGE_RU.md](docs/PAGE_RU.md)
-- Design plan: [docs/PLAN.md](docs/PLAN.md) · Changes: [CHANGELOG.md](CHANGELOG.md) · License: [MIT](LICENSE)
+- Changes: [CHANGELOG.md](CHANGELOG.md) · License: [MIT](LICENSE)
 
 ## Building
 
