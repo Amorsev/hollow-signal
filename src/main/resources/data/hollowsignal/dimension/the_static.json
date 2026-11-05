@@ -1,0 +1,13 @@
+{
+  "type": "hollowsignal:the_static",
+  "generator": {
+    "type": "minecraft:flat",
+    "settings": {
+      "biome": "hollowsignal:static_void",
+      "layers": [ { "block": "minecraft:air", "height": 1 } ],
+      "features": true,
+      "lakes": false,
+      "structure_overrides": []
+    }
+  }
+}

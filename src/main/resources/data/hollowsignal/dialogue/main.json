@@ -1,0 +1,852 @@
+{
+  "topics": [
+    {
+      "id": "name",
+      "rel_delta": 1,
+      "replies": {
+        "friendly": [
+          "hollowsignal.dialogue.name.friendly.0",
+          "hollowsignal.dialogue.name.friendly.1"
+        ],
+        "neutral": [
+          "hollowsignal.dialogue.name.neutral.0",
+          "hollowsignal.dialogue.name.neutral.1"
+        ],
+        "hostile": [
+          "hollowsignal.dialogue.name.hostile.0",
+          "hollowsignal.dialogue.name.hostile.1"
+        ]
+      },
+      "keywords": [
+        "как тебя зовут",
+        "как твое имя",
+        "твое имя",
+        "как тебя называть",
+        "как к тебе обращаться",
+        "у тебя есть имя",
+        "your name",
+        "what is your name",
+        "whats your name",
+        "what's your name",
+        "do you have a name"
+      ]
+    },
+    {
+      "id": "age",
+      "rel_delta": 0,
+      "replies": {
+        "friendly": [
+          "hollowsignal.dialogue.age.friendly.0"
+        ],
+        "neutral": [
+          "hollowsignal.dialogue.age.neutral.0",
+          "hollowsignal.dialogue.age.neutral.1"
+        ],
+        "hostile": [
+          "hollowsignal.dialogue.age.hostile.0"
+        ]
+      },
+      "keywords": [
+        "сколько тебе лет",
+        "твой возраст",
+        "ты старый",
+        "how old are you",
+        "your age"
+      ]
+    },
+    {
+      "id": "see_me",
+      "rel_delta": 0,
+      "replies": {
+        "friendly": [
+          "hollowsignal.dialogue.see_me.friendly.0",
+          "hollowsignal.dialogue.see_me.friendly.1"
+        ],
+        "neutral": [
+          "hollowsignal.dialogue.see_me.neutral.0",
+          "hollowsignal.dialogue.see_me.neutral.1"
+        ],
+        "hostile": [
+          "hollowsignal.dialogue.see_me.hostile.0",
+          "hollowsignal.dialogue.see_me.hostile.1"
+        ]
+      },
+      "keywords": [
+        "ты меня видишь",
+        "видишь меня",
+        "ты видишь меня",
+        "ты за мной следишь",
+        "следишь за мной",
+        "ты наблюдаешь",
+        "can you see me",
+        "do you see me",
+        "are you watching me",
+        "you watching me"
+      ]
+    },
+    {
+      "id": "mood",
+      "rel_delta": 1,
+      "replies": {
+        "friendly": [
+          "hollowsignal.dialogue.mood.friendly.0",
+          "hollowsignal.dialogue.mood.friendly.1",
+          "hollowsignal.dialogue.mood.friendly.2"
+        ],
+        "neutral": [
+          "hollowsignal.dialogue.mood.neutral.0",
+          "hollowsignal.dialogue.mood.neutral.1",
+          "hollowsignal.dialogue.mood.neutral.2"
+        ],
+        "hostile": [
+          "hollowsignal.dialogue.mood.hostile.0",
+          "hollowsignal.dialogue.mood.hostile.1",
+          "hollowsignal.dialogue.mood.hostile.2"
+        ]
+      },
+      "keywords": [
+        "как настроение",
+        "как твое настроение",
+        "какое у тебя настроение",
+        "какое настроение",
+        "что по настроению",
+        "как себя чувствуешь",
+        "как ты себя чувствуешь",
+        "что ты чувствуешь",
+        "тебе грустно",
+        "ты злишься",
+        "how do you feel",
+        "how are you feeling",
+        "what is your mood",
+        "what's your mood",
+        "whats your mood",
+        "your mood",
+        "are you sad",
+        "are you angry"
+      ]
+    },
+    {
+      "id": "how_are_you",
+      "rel_delta": 1,
+      "replies": {
+        "friendly": [
+          "hollowsignal.dialogue.how_are_you.friendly.0",
+          "hollowsignal.dialogue.how_are_you.friendly.1",
+          "hollowsignal.dialogue.how_are_you.friendly.2"
+        ],
+        "neutral": [
+          "hollowsignal.dialogue.how_are_you.neutral.0",
+          "hollowsignal.dialogue.how_are_you.neutral.1",
+          "hollowsignal.dialogue.how_are_you.neutral.2"
+        ],
+        "hostile": [
+          "hollowsignal.dialogue.how_are_you.hostile.0",
+          "hollowsignal.dialogue.how_are_you.hostile.1",
+          "hollowsignal.dialogue.how_are_you.hostile.2"
+        ]
+      },
+      "keywords": [
+        "как дела",
+        "как твои дела",
+        "как у тебя дела",
+        "как делишки",
+        "как ты",
+        "ты как",
+        "как поживаешь",
+        "как жизнь",
+        "как сам",
+        "как оно",
+        "ты в порядке",
+        "все хорошо",
+        "у тебя все хорошо",
+        "how are you",
+        "how r u",
+        "how are u",
+        "how is it going",
+        "how's it going",
+        "hows it going",
+        "are you ok",
+        "you ok"
+      ]
+    },
+    {
+      "id": "doing",
+      "rel_delta": 0,
+      "replies": {
+        "friendly": [
+          "hollowsignal.dialogue.doing.friendly.0",
+          "hollowsignal.dialogue.doing.friendly.1"
+        ],
+        "neutral": [
+          "hollowsignal.dialogue.doing.neutral.0",
+          "hollowsignal.dialogue.doing.neutral.1",
+          "hollowsignal.dialogue.doing.neutral.2"
+        ],
+        "hostile": [
+          "hollowsignal.dialogue.doing.hostile.0",
+          "hollowsignal.dialogue.doing.hostile.1"
+        ]
+      },
+      "keywords": [
+        "что делаешь",
+        "что ты делаешь",
+        "чем занят",
+        "чем занимаешься",
+        "что ты тут делаешь",
+        "что ты здесь делаешь",
+        "what are you doing",
+        "what r u doing",
+        "what you doing",
+        "wyd"
+      ]
+    },
+    {
+      "id": "real",
+      "rel_delta": 0,
+      "replies": {
+        "friendly": [
+          "hollowsignal.dialogue.real.friendly.0",
+          "hollowsignal.dialogue.real.friendly.1"
+        ],
+        "neutral": [
+          "hollowsignal.dialogue.real.neutral.0",
+          "hollowsignal.dialogue.real.neutral.1"
+        ],
+        "hostile": [
+          "hollowsignal.dialogue.real.hostile.0"
+        ]
+      },
+      "keywords": [
+        "ты настоящий",
+        "ты реальный",
+        "ты существуешь",
+        "ты живой",
+        "ты бот",
+        "ты игрок",
+        "ты человек",
+        "это реально",
+        "are you real",
+        "are you a bot",
+        "are you human",
+        "are you alive",
+        "are you a player",
+        "is this real"
+      ]
+    },
+    {
+      "id": "who",
+      "rel_delta": 1,
+      "replies": {
+        "friendly": [
+          "hollowsignal.dialogue.who.friendly.0",
+          "hollowsignal.dialogue.who.friendly.1"
+        ],
+        "neutral": [
+          "hollowsignal.dialogue.who.neutral.0",
+          "hollowsignal.dialogue.who.neutral.1"
+        ],
+        "hostile": [
+          "hollowsignal.dialogue.who.hostile.0",
+          "hollowsignal.dialogue.who.hostile.1"
+        ]
+      },
+      "keywords": [
+        "кто ты",
+        "кто ты такой",
+        "ты кто",
+        "кто это",
+        "кто здесь",
+        "что ты такое",
+        "who are you",
+        "who r u",
+        "who is this",
+        "who is there",
+        "what are you"
+      ]
+    },
+    {
+      "id": "from",
+      "rel_delta": 0,
+      "replies": {
+        "friendly": [
+          "hollowsignal.dialogue.from.friendly.0"
+        ],
+        "neutral": [
+          "hollowsignal.dialogue.from.neutral.0",
+          "hollowsignal.dialogue.from.neutral.1"
+        ],
+        "hostile": [
+          "hollowsignal.dialogue.from.hostile.0"
+        ]
+      },
+      "keywords": [
+        "откуда ты",
+        "откуда ты взялся",
+        "откуда ты пришел",
+        "ты откуда",
+        "where are you from",
+        "where did you come from"
+      ]
+    },
+    {
+      "id": "where",
+      "rel_delta": 0,
+      "replies": {
+        "friendly": [
+          "hollowsignal.dialogue.where.friendly.0"
+        ],
+        "neutral": [
+          "hollowsignal.dialogue.where.neutral.0",
+          "hollowsignal.dialogue.where.neutral.1",
+          "hollowsignal.dialogue.where.neutral.2"
+        ],
+        "hostile": [
+          "hollowsignal.dialogue.where.hostile.0",
+          "hollowsignal.dialogue.where.hostile.1"
+        ]
+      },
+      "keywords": [
+        "где ты",
+        "ты где",
+        "где ты находишься",
+        "где ты прячешься",
+        "покажись",
+        "where are you",
+        "where r u",
+        "where are u",
+        "show yourself"
+      ]
+    },
+    {
+      "id": "want",
+      "rel_delta": 0,
+      "replies": {
+        "friendly": [
+          "hollowsignal.dialogue.want.friendly.0",
+          "hollowsignal.dialogue.want.friendly.1"
+        ],
+        "neutral": [
+          "hollowsignal.dialogue.want.neutral.0",
+          "hollowsignal.dialogue.want.neutral.1"
+        ],
+        "hostile": [
+          "hollowsignal.dialogue.want.hostile.0",
+          "hollowsignal.dialogue.want.hostile.1"
+        ]
+      },
+      "keywords": [
+        "чего ты хочешь",
+        "что тебе надо",
+        "что тебе нужно",
+        "зачем ты здесь",
+        "зачем ты пришел",
+        "что ты хочешь",
+        "what do you want",
+        "what you want",
+        "why are you here"
+      ]
+    },
+    {
+      "id": "sorry",
+      "rel_delta": 4,
+      "replies": {
+        "friendly": [
+          "hollowsignal.dialogue.sorry.friendly.0",
+          "hollowsignal.dialogue.sorry.friendly.1"
+        ],
+        "neutral": [
+          "hollowsignal.dialogue.sorry.neutral.0",
+          "hollowsignal.dialogue.sorry.neutral.1"
+        ],
+        "hostile": [
+          "hollowsignal.dialogue.sorry.hostile.0",
+          "hollowsignal.dialogue.sorry.hostile.1"
+        ]
+      },
+      "keywords": [
+        "прости",
+        "прости меня",
+        "извини",
+        "извини меня",
+        "прошу прощения",
+        "мне жаль",
+        "sorry",
+        "i am sorry",
+        "i'm sorry",
+        "im sorry",
+        "forgive me"
+      ]
+    },
+    {
+      "id": "like",
+      "rel_delta": 3,
+      "replies": {
+        "friendly": [
+          "hollowsignal.dialogue.like.friendly.0"
+        ],
+        "neutral": [
+          "hollowsignal.dialogue.like.neutral.0"
+        ],
+        "hostile": [
+          "hollowsignal.dialogue.like.hostile.0"
+        ]
+      },
+      "keywords": [
+        "ты мне нравишься",
+        "я тебя люблю",
+        "люблю тебя",
+        "ты классный",
+        "ты хороший",
+        "ты милый",
+        "i like you",
+        "i love you",
+        "you are cool",
+        "you're nice",
+        "you are nice"
+      ]
+    },
+    {
+      "id": "threat",
+      "rel_delta": -6,
+      "replies": {
+        "friendly": [
+          "hollowsignal.dialogue.threat.friendly.0"
+        ],
+        "neutral": [
+          "hollowsignal.dialogue.threat.neutral.0",
+          "hollowsignal.dialogue.threat.neutral.1"
+        ],
+        "hostile": [
+          "hollowsignal.dialogue.threat.hostile.0",
+          "hollowsignal.dialogue.threat.hostile.1"
+        ]
+      },
+      "keywords": [
+        "я тебя убью",
+        "убью тебя",
+        "убью",
+        "я найду тебя",
+        "я тебя найду",
+        "я тебя уничтожу",
+        "i will kill you",
+        "kill you",
+        "i'll find you",
+        "i will find you"
+      ]
+    },
+    {
+      "id": "insult",
+      "rel_delta": -5,
+      "replies": {
+        "friendly": [
+          "hollowsignal.dialogue.insult.friendly.0",
+          "hollowsignal.dialogue.insult.friendly.1"
+        ],
+        "neutral": [
+          "hollowsignal.dialogue.insult.neutral.0",
+          "hollowsignal.dialogue.insult.neutral.1"
+        ],
+        "hostile": [
+          "hollowsignal.dialogue.insult.hostile.0",
+          "hollowsignal.dialogue.insult.hostile.1"
+        ]
+      },
+      "keywords": [
+        "уходи",
+        "отстань",
+        "отвали",
+        "идиот",
+        "тупой",
+        "дурак",
+        "ненавижу",
+        "ненавижу тебя",
+        "заткнись",
+        "вали",
+        "пошел вон",
+        "go away",
+        "leave me alone",
+        "stupid",
+        "idiot",
+        "hate you",
+        "i hate you",
+        "shut up",
+        "get lost"
+      ]
+    },
+    {
+      "id": "fear",
+      "rel_delta": 1,
+      "replies": {
+        "friendly": [
+          "hollowsignal.dialogue.fear.friendly.0"
+        ],
+        "neutral": [
+          "hollowsignal.dialogue.fear.neutral.0",
+          "hollowsignal.dialogue.fear.neutral.1"
+        ],
+        "hostile": [
+          "hollowsignal.dialogue.fear.hostile.0"
+        ]
+      },
+      "keywords": [
+        "мне страшно",
+        "страшно",
+        "я боюсь",
+        "боюсь",
+        "жутко",
+        "ты пугаешь",
+        "ты меня пугаешь",
+        "scared",
+        "i'm scared",
+        "im scared",
+        "afraid",
+        "scary",
+        "you scare me"
+      ]
+    },
+    {
+      "id": "help",
+      "rel_delta": 0,
+      "replies": {
+        "friendly": [
+          "hollowsignal.dialogue.help.friendly.0",
+          "hollowsignal.dialogue.help.friendly.1"
+        ],
+        "neutral": [
+          "hollowsignal.dialogue.help.neutral.0",
+          "hollowsignal.dialogue.help.neutral.1"
+        ],
+        "hostile": [
+          "hollowsignal.dialogue.help.hostile.0"
+        ]
+      },
+      "keywords": [
+        "помоги",
+        "помоги мне",
+        "помощь",
+        "спаси",
+        "спаси меня",
+        "help",
+        "help me",
+        "save me"
+      ]
+    },
+    {
+      "id": "laugh",
+      "rel_delta": 0,
+      "replies": {
+        "friendly": [
+          "hollowsignal.dialogue.laugh.friendly.0",
+          "hollowsignal.dialogue.laugh.friendly.1"
+        ],
+        "neutral": [
+          "hollowsignal.dialogue.laugh.neutral.0",
+          "hollowsignal.dialogue.laugh.neutral.1"
+        ],
+        "hostile": [
+          "hollowsignal.dialogue.laugh.hostile.0"
+        ]
+      },
+      "keywords": [
+        "хаха",
+        "ахах",
+        "ахаха",
+        "хахаха",
+        "лол",
+        "хех",
+        "haha",
+        "hahaha",
+        "lol",
+        "lmao",
+        "xd"
+      ]
+    },
+    {
+      "id": "bye",
+      "rel_delta": 0,
+      "replies": {
+        "friendly": [
+          "hollowsignal.dialogue.bye.friendly.0",
+          "hollowsignal.dialogue.bye.friendly.1"
+        ],
+        "neutral": [
+          "hollowsignal.dialogue.bye.neutral.0",
+          "hollowsignal.dialogue.bye.neutral.1"
+        ],
+        "hostile": [
+          "hollowsignal.dialogue.bye.hostile.0",
+          "hollowsignal.dialogue.bye.hostile.1"
+        ]
+      },
+      "keywords": [
+        "пока",
+        "до свидания",
+        "прощай",
+        "увидимся",
+        "спокойной ночи",
+        "я ухожу",
+        "bye",
+        "goodbye",
+        "see you",
+        "good night",
+        "gn"
+      ]
+    },
+    {
+      "id": "friendly",
+      "rel_delta": 3,
+      "replies": {
+        "friendly": [
+          "hollowsignal.dialogue.friendly.friendly.0",
+          "hollowsignal.dialogue.friendly.friendly.1"
+        ],
+        "neutral": [
+          "hollowsignal.dialogue.friendly.neutral.0",
+          "hollowsignal.dialogue.friendly.neutral.1"
+        ],
+        "hostile": [
+          "hollowsignal.dialogue.friendly.hostile.0"
+        ]
+      },
+      "keywords": [
+        "привет",
+        "приветик",
+        "здравствуй",
+        "здравствуйте",
+        "хай",
+        "здарова",
+        "добрый день",
+        "добрый вечер",
+        "доброе утро",
+        "друг",
+        "спасибо",
+        "hello",
+        "hi",
+        "hey",
+        "yo",
+        "sup",
+        "good morning",
+        "good evening",
+        "friend",
+        "thanks",
+        "thank you"
+      ]
+    },
+    {
+      "id": "leave_q",
+      "rel_delta": -1,
+      "replies": {
+        "friendly": [
+          "hollowsignal.dialogue.leave_q.friendly.0"
+        ],
+        "neutral": [
+          "hollowsignal.dialogue.leave_q.neutral.0",
+          "hollowsignal.dialogue.leave_q.neutral.1"
+        ],
+        "hostile": [
+          "hollowsignal.dialogue.leave_q.hostile.0"
+        ]
+      },
+      "keywords": [
+        "когда ты уйдешь",
+        "ты уйдешь",
+        "уйди",
+        "when will you leave",
+        "will you leave",
+        "leave"
+      ]
+    },
+    {
+      "id": "greet",
+      "rel_delta": 0,
+      "replies": {
+        "friendly": [
+          "hollowsignal.dialogue.greet.friendly.0",
+          "hollowsignal.dialogue.greet.friendly.1"
+        ],
+        "neutral": [
+          "hollowsignal.dialogue.greet.neutral.0",
+          "hollowsignal.dialogue.greet.neutral.1",
+          "hollowsignal.dialogue.greet.neutral.2"
+        ],
+        "hostile": [
+          "hollowsignal.dialogue.greet.hostile.0",
+          "hollowsignal.dialogue.greet.hostile.1"
+        ]
+      }
+    },
+    {
+      "id": "idle",
+      "rel_delta": 0,
+      "replies": {
+        "friendly": [
+          "hollowsignal.dialogue.idle.friendly.0",
+          "hollowsignal.dialogue.idle.friendly.1",
+          "hollowsignal.dialogue.idle.friendly.2"
+        ],
+        "neutral": [
+          "hollowsignal.dialogue.idle.neutral.0",
+          "hollowsignal.dialogue.idle.neutral.1",
+          "hollowsignal.dialogue.idle.neutral.2",
+          "hollowsignal.dialogue.idle.neutral.3"
+        ],
+        "hostile": [
+          "hollowsignal.dialogue.idle.hostile.0",
+          "hollowsignal.dialogue.idle.hostile.1",
+          "hollowsignal.dialogue.idle.hostile.2"
+        ]
+      }
+    },
+    {
+      "id": "unknown",
+      "rel_delta": 0,
+      "replies": {
+        "friendly": [
+          "hollowsignal.dialogue.unknown.friendly.0"
+        ],
+        "neutral": [
+          "hollowsignal.dialogue.unknown.neutral.0",
+          "hollowsignal.dialogue.unknown.neutral.1",
+          "hollowsignal.dialogue.unknown.neutral.2"
+        ],
+        "hostile": [
+          "hollowsignal.dialogue.unknown.hostile.0",
+          "hollowsignal.dialogue.unknown.hostile.1"
+        ]
+      }
+    },
+    {
+      "id": "gift",
+      "rel_delta": 2,
+      "replies": {
+        "friendly": [
+          "hollowsignal.dialogue.gift.friendly.0",
+          "hollowsignal.dialogue.gift.friendly.1"
+        ],
+        "neutral": [
+          "hollowsignal.dialogue.gift.neutral.0",
+          "hollowsignal.dialogue.gift.neutral.1"
+        ],
+        "hostile": [
+          "hollowsignal.dialogue.gift.hostile.0"
+        ]
+      }
+    },
+    {
+      "id": "sign_broken",
+      "rel_delta": -3,
+      "replies": {
+        "friendly": [
+          "hollowsignal.dialogue.sign_broken.friendly.0"
+        ],
+        "neutral": [
+          "hollowsignal.dialogue.sign_broken.neutral.0",
+          "hollowsignal.dialogue.sign_broken.neutral.1"
+        ],
+        "hostile": [
+          "hollowsignal.dialogue.sign_broken.hostile.0"
+        ]
+      }
+    },
+    {
+      "id": "mimic",
+      "rel_delta": 0,
+      "replies": {
+        "friendly": [
+          "hollowsignal.dialogue.mimic.friendly.0",
+          "hollowsignal.dialogue.mimic.friendly.1"
+        ],
+        "neutral": [
+          "hollowsignal.dialogue.mimic.neutral.0",
+          "hollowsignal.dialogue.mimic.neutral.1",
+          "hollowsignal.dialogue.mimic.neutral.2"
+        ],
+        "hostile": [
+          "hollowsignal.dialogue.mimic.hostile.0",
+          "hollowsignal.dialogue.mimic.hostile.1",
+          "hollowsignal.dialogue.mimic.hostile.2"
+        ]
+      }
+    },
+    {
+      "id": "the_call",
+      "rel_delta": 0,
+      "replies": {
+        "friendly": [
+          "hollowsignal.dialogue.the_call.friendly.0"
+        ],
+        "neutral": [
+          "hollowsignal.dialogue.the_call.neutral.0",
+          "hollowsignal.dialogue.the_call.neutral.1"
+        ],
+        "hostile": [
+          "hollowsignal.dialogue.the_call.hostile.0"
+        ]
+      }
+    },
+    {
+      "id": "static_arrive",
+      "rel_delta": 0,
+      "replies": {
+        "friendly": [
+          "hollowsignal.dialogue.static_arrive.friendly.0"
+        ],
+        "neutral": [
+          "hollowsignal.dialogue.static_arrive.neutral.0",
+          "hollowsignal.dialogue.static_arrive.neutral.1"
+        ],
+        "hostile": [
+          "hollowsignal.dialogue.static_arrive.hostile.0",
+          "hollowsignal.dialogue.static_arrive.hostile.1"
+        ]
+      }
+    },
+    {
+      "id": "receiver",
+      "rel_delta": 1,
+      "replies": {
+        "friendly": [
+          "hollowsignal.dialogue.receiver.friendly.0",
+          "hollowsignal.dialogue.receiver.friendly.1"
+        ],
+        "neutral": [
+          "hollowsignal.dialogue.receiver.neutral.0",
+          "hollowsignal.dialogue.receiver.neutral.1"
+        ],
+        "hostile": [
+          "hollowsignal.dialogue.receiver.hostile.0"
+        ]
+      }
+    },
+    {
+      "id": "core_ready",
+      "rel_delta": 1,
+      "replies": {
+        "friendly": [
+          "hollowsignal.dialogue.core_ready.friendly.0"
+        ],
+        "neutral": [
+          "hollowsignal.dialogue.core_ready.neutral.0"
+        ],
+        "hostile": [
+          "hollowsignal.dialogue.core_ready.hostile.0"
+        ]
+      }
+    },
+    {
+      "id": "system",
+      "rel_delta": 0,
+      "replies": {
+        "neutral": [
+          "hollowsignal.dialogue.system.neutral.0",
+          "hollowsignal.dialogue.system.neutral.1",
+          "hollowsignal.dialogue.system.neutral.2"
+        ],
+        "hostile": [
+          "hollowsignal.dialogue.system.hostile.0",
+          "hollowsignal.dialogue.system.hostile.1"
+        ]
+      }
+    }
+  ]
+}

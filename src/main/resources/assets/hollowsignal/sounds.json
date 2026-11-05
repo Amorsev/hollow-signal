@@ -1,0 +1,45 @@
+{
+  "listener.vanish": {
+    "subtitle": "hollowsignal.subtitle.listener.vanish",
+    "sounds": [
+      {
+        "name": "hollowsignal:listener/vanish1",
+        "volume": 0.8
+      },
+      {
+        "name": "hollowsignal:listener/vanish2",
+        "volume": 0.8
+      }
+    ]
+  },
+  "listener.scare": {
+    "subtitle": "hollowsignal.subtitle.listener.scare",
+    "sounds": [
+      "hollowsignal:listener/scare1",
+      "hollowsignal:listener/scare2",
+      "hollowsignal:listener/scare3"
+    ]
+  },
+  "listener.presence": {
+    "subtitle": "hollowsignal.subtitle.listener.presence",
+    "sounds": [
+      "hollowsignal:listener/presence1",
+      "hollowsignal:listener/presence2",
+      "hollowsignal:listener/presence3"
+    ]
+  },
+  "listener.static": {
+    "subtitle": "hollowsignal.subtitle.listener.static",
+    "sounds": [
+      "hollowsignal:static/static1",
+      "hollowsignal:static/static2",
+      "hollowsignal:static/static3"
+    ]
+  },
+  "ui.error": {
+    "subtitle": "hollowsignal.subtitle.ui.error",
+    "sounds": [
+      "hollowsignal:ui/error"
+    ]
+  }
+}

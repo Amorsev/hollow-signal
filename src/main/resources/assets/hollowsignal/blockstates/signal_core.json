@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": { "model": "hollowsignal:block/signal_core" }
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "variants": {
+    "active=false": { "model": "hollowsignal:block/signal_receiver_off" },
+    "active=true": { "model": "hollowsignal:block/signal_receiver_on" }
+  }
+}

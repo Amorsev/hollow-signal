@@ -1,0 +1,25 @@
+{
+  "has_precipitation": false,
+  "temperature": 0.5,
+  "downfall": 0.0,
+  "effects": {
+    "fog_color": 1184274,
+    "sky_color": 0,
+    "water_color": 2105376,
+    "water_fog_color": 1052688,
+    "mood_sound": {
+      "sound": "hollowsignal:listener.presence",
+      "tick_delay": 1200,
+      "block_search_extent": 8,
+      "offset": 2.0
+    },
+    "additions_sound": {
+      "sound": "hollowsignal:listener.static",
+      "tick_chance": 0.002
+    }
+  },
+  "spawners": {},
+  "spawn_costs": {},
+  "carvers": {},
+  "features": [[], [], [], [], ["hollowsignal:static_debris"]]
+}
